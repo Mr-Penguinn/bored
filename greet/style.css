@@ -1,0 +1,40 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    background-color: hotpink;
+}
+#alpha {
+    background-color: rgb(183, 50, 201);
+    font-size: 30px;
+    display: inline;
+    align-items: center;
+    position: relative;
+    top: 30px;
+    left: 50%;
+    right: 50%;
+}
+
+img {
+    size-adjust: 30%;
+    position: relative;
+    left: 45%;
+    right: 50%;
+    
+}
+
+#from {
+    position: relative;
+    left: 50%;
+    right: 50%;
+    display: inline;
+    font-size: 25px;
+
+}
+
+#buttock {
+    font-size: 40px;
+    display: inline;
+    position: relative;
+    left: 50%;
+    right: 50%;
+}

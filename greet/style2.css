@@ -1,0 +1,32 @@
+* {
+    background-color: burlywood;
+}
+
+
+
+button {
+
+    background-color: cadetblue;
+    position: relative;
+    top: 500px;
+    left: 50%;
+    right: 50%;
+    bottom: 50%;
+    font-size: 40px;
+}
+
+div {
+    height: 20px;
+    width: 20px;
+
+    position: relative;
+    right: 50%;
+    left: 38%;
+}
+
+h1 {
+    position: relative;
+    left: 50%;
+    right: 50%;
+    color: chocolate;
+}
